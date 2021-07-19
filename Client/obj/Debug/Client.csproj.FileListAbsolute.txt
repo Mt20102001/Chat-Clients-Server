@@ -1,0 +1,9 @@
+C:\Project\C#\Client_Server\Client\bin\Debug\Client.exe.config
+C:\Project\C#\Client_Server\Client\bin\Debug\Client.exe
+C:\Project\C#\Client_Server\Client\bin\Debug\Client.pdb
+C:\Project\C#\Client_Server\Client\obj\Debug\Client.Client.resources
+C:\Project\C#\Client_Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Project\C#\Client_Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Project\C#\Client_Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Project\C#\Client_Server\Client\obj\Debug\Client.exe
+C:\Project\C#\Client_Server\Client\obj\Debug\Client.pdb
