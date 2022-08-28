@@ -7,3 +7,14 @@ C:\Project\C#\Client_Server\Client\obj\Debug\Client.csproj.GenerateResource.cach
 C:\Project\C#\Client_Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 C:\Project\C#\Client_Server\Client\obj\Debug\Client.exe
 C:\Project\C#\Client_Server\Client\obj\Debug\Client.pdb
+C:\Users\minht\OneDrive\QuanLiSinhVien\Chat-Clients-Server\Client\bin\Debug\Client.exe.config
+C:\Users\minht\OneDrive\QuanLiSinhVien\Chat-Clients-Server\Client\bin\Debug\Client.exe
+C:\Users\minht\OneDrive\QuanLiSinhVien\Chat-Clients-Server\Client\bin\Debug\Client.pdb
+C:\Users\minht\OneDrive\QuanLiSinhVien\Chat-Clients-Server\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\minht\OneDrive\QuanLiSinhVien\Chat-Clients-Server\Client\obj\Debug\Client.Client.resources
+C:\Users\minht\OneDrive\QuanLiSinhVien\Chat-Clients-Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\minht\OneDrive\QuanLiSinhVien\Chat-Clients-Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\minht\OneDrive\QuanLiSinhVien\Chat-Clients-Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\minht\OneDrive\QuanLiSinhVien\Chat-Clients-Server\Client\obj\Debug\Client.exe
+C:\Users\minht\OneDrive\QuanLiSinhVien\Chat-Clients-Server\Client\obj\Debug\Client.pdb
+C:\Users\minht\OneDrive\QuanLiSinhVien\Chat-Clients-Server\Client\obj\Debug\Client.csproj.AssemblyReference.cache
